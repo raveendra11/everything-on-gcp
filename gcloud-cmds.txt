@@ -17,3 +17,7 @@ To see whether the server instance is ready for an RDP connection :
 Set the region for your project:
 
 --> gcloud config set compute/region us-east4
+
+Set the zone for your project:
+
+--> gcloud config set compute/zone [zone]
